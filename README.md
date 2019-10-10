@@ -1,2 +1,2 @@
 # picoCTF
-My Flags in picoCTF
+My Flag in picoCTF
